@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Assignment PDF
+CSE 489 Assigment L2 v5.pdf
